@@ -1,5 +1,6 @@
-# Ignore the entire models folder
-/models/
+# Ignore only model files inside models/ (but keep the folder)
+models/*
+!models/.gitkeep
 
 # (Optional) Ignore virtual environment
 venv/
