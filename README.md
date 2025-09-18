@@ -77,9 +77,8 @@ MediScan/
 - If you face version issues, ensure your local `keras` + `tensorflow` are similar to what you used on Kaggle.
 - Default image size is 224x224. Adjust in `app/services/preprocessing.py` if different.
 
-## Resources
-
 ## 📘 Resources
 
 - [Brain_Tumor](https://www.kaggle.com/code/nitinrajpoot/brain-tumor)
+- [Chest_Xray](https://www.kaggle.com/code/nitinrajpoot/chest-x-ray)
 
