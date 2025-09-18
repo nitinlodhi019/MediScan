@@ -79,3 +79,7 @@ MediScan/
 
 ## Resources
 
+## 📘 Resources
+
+- 🧠 Kaggle Notebook: [View & Fork the Full Notebook](https://www.kaggle.com/yourusername/notebook-name)
+
