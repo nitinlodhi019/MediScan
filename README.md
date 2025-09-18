@@ -58,7 +58,7 @@ MediScan/
    ```bash
    cd models
    ```
-   - Download the PreTrained models and model weights from https://drive.google.com/drive/folders/1_7OAB1r3PCBxUS0UpyxkqrKQbVgln0IH?usp=drive_link
+   - Download the PreTrained models and model weights from [Drive Link](https://drive.google.com/drive/folders/1_7OAB1r3PCBxUS0UpyxkqrKQbVgln0IH?usp=drive_link)
    - Paste the downloaded weights in the corresponding directories.
 
 - Go back to the parent directory using
