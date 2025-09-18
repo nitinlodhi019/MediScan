@@ -1,6 +1,6 @@
-# Medical AI App (FastAPI + Keras)
+# Medical AI App (Flask + Keras)
 
-This is a minimal FastAPI web app that loads your trained Keras models (.keras or .h5) and serves
+This is a minimal Flask web app that loads your trained Keras models (.h5) and serves
 a simple frontend for image upload and prediction. It returns a formatted clinical-style report
 with prediction, confidence, findings, and recommendations.
 
@@ -22,7 +22,7 @@ with prediction, confidence, findings, and recommendations.
 
 3) Run the app locally:
    ```bash
-   uvicorn app.main:app --reload
+   python app.py
    ```
    Open http://127.0.0.1:8000 in your browser.
 
