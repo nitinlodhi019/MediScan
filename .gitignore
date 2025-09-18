@@ -1,0 +1,10 @@
+# Ignore the entire models folder
+/models/
+
+# (Optional) Ignore virtual environment
+venv/
+
+# Ignore cache and temp files
+__pycache__/
+*.pyc
+*.log

@@ -1,0 +1,43 @@
+{
+  "pneumonia": {
+    "key_findings": ["Evidence of opacities or infiltrates in the lung.", "Consistent with pneumonia infection."],
+    "recommendation": ["Consult a medical professional for a clinical diagnosis.", "Treatment may include antibiotics or other medications."]
+  },
+  "normal": {
+    "key_findings": ["Lungs appear clear.", "No signs of pneumonia or other abnormalities."],
+    "recommendation": ["Maintain a healthy lifestyle.", "Follow up with your doctor if symptoms develop."]
+  },
+  "glioma": {
+    "key_findings": ["Tumor appears to be a glioma.", "Originates from glial cells in the brain."],
+    "recommendation": ["Immediate consultation with a neuro-oncologist.", "Biopsy and further scans are required for treatment planning."]
+  },
+  "meningioma": {
+    "key_findings": ["Presence of a meningioma.", "Arises from membranes surrounding the brain and spinal cord."],
+    "recommendation": ["Regular monitoring is advised.", "Treatment options depend on size and location."]
+  },
+  "notumor": {
+    "key_findings": ["No evidence of a brain tumor.", "The brain structure appears normal."],
+    "recommendation": ["Continue with regular check-ups.", "Follow up with a specialist if symptoms persist."]
+  },
+  "pituitary": {
+    "key_findings": ["Tumor detected in the pituitary gland region.", "Can affect hormone production."],
+    "recommendation": ["Endocrinologist consultation for hormone level testing.", "Treatment may involve medication, surgery, or radiation."]
+  },
+  "malignant": {
+    "key_findings": ["Lesion shows characteristics consistent with melanoma.", "Irregular borders and color variation are noted."],
+    "recommendation": ["Urgent consultation with a dermatologist for biopsy.", "Early detection is critical for treatment success."]
+  },
+  "benign": {
+    "key_findings": ["Benign growth, commonly known as a mole.", "Lesion appears symmetrical with regular borders."],
+    "recommendation": ["Regular self-monitoring for any changes in size, shape, or color.", "Consult a dermatologist if changes occur."]
+  },
+  "fractured": {
+    "key_findings": ["A clear break or crack is visible in the bone structure.", "Discontinuity in the cortical line observed."],
+    "recommendation": ["Immediate medical attention required.", "Immobilization (casting/splinting) and follow-up with an orthopedic specialist."]
+  },
+  "not fractured": {
+    "key_findings": ["No visible signs of a fracture or dislocation.", "Bone structure appears intact."],
+    "recommendation": ["If pain persists, consult a doctor for further evaluation.", "Rest and ice may help with soft tissue injuries."]
+  }
+}
+
