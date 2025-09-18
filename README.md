@@ -73,7 +73,7 @@ MediScan/
    Open http://127.0.0.1:8000 in your browser.
 
 ## Notes
-- Uses Keras 3 API (compatible with `.keras` and `.h5`).
+- Uses Keras 3 API (compatible with `.h5`).
 - If you face version issues, ensure your local `keras` + `tensorflow` are similar to what you used on Kaggle.
 - Default image size is 224x224. Adjust in `app/services/preprocessing.py` if different.
 - There is a Gatekeep model directory, you can ignore or remove. It just for the Documented code.
