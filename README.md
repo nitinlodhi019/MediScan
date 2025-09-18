@@ -4,7 +4,35 @@ This is a minimal Flask web app that loads your trained Keras models (.h5) and s
 a simple frontend for image upload and prediction. It returns a formatted clinical-style report
 with prediction, confidence, findings, and recommendations.
 
-## Quickstart
+## 📂 Project Structure
+
+```bash
+MediScan/
+├── app.py                  
+├── disease_info.json        
+├── preprocess.py           
+├── requirements.txt        
+├── README.md             
+├── .gitignore         
+├── models/                 
+│   ├── brain_tumor_xception_model.h5
+│   ├── Chest_XRay.h5
+│   ├── Chest_XRay_model.h5
+│   ├── fracture_classification_model.h5
+│   ├── gatekeeper_model.h5
+│   └── resnet50_binary_softmax.h5
+├── templates/          
+│   └── index.html
+├── venv/                    # Virtual environment
+│   └── ...
+└── Lib/                     # Auto-generated Python libraries
+
+## Some Images
+
+<img width="1820" height="927" alt="Screenshot 2025-09-18 202056" src="https://github.com/user-attachments/assets/a01d1227-a153-4f10-9ac4-6e463e1a790c" />
+
+
+## Run Locally
 
 1) Create a virtual environment and install dependencies:
    ```bash
