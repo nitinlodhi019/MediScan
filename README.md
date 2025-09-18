@@ -26,8 +26,13 @@ MediScan/
 ├── venv/                    # Virtual environment
 │   └── ...
 └── Lib/                     # Auto-generated Python libraries
+```
 
 ## Some Images
+
+<img width="1819" height="915" alt="Screenshot 2025-09-18 202044" src="https://github.com/user-attachments/assets/f5d2c770-d5cd-4d1b-9aa1-7e428f5c7288" />
+
+<img width="1820" height="927" alt="Screenshot 2025-09-18 202056" src="https://github.com/user-attachments/assets/5100c1c1-f3ee-4ab1-9c84-9a91fe7c7658" />
 
 
 ## Run Locally
