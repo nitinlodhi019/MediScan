@@ -20,8 +20,8 @@ with prediction, confidence, findings, and recommendations.
    - `Chest_XRay_model.h5`
    - `fracture_classification_model.h5`
    - `gatekeeper_model.h5`
-   - `resnet50_binary_softmax.h5
-
+   - `resnet50_binary_softmax.h5`
+   
 3) Run the app locally:
    ```bash
    python app.py
