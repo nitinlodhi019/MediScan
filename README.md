@@ -15,18 +15,18 @@ with prediction, confidence, findings, and recommendations.
    pip install -r requirements.txt
    ```
 
-2) Copy your trained models into `app/models/` and keep (or update) the names in `app/config.py`:
-   - `xray_model.h5` or `xray_model.keras`
-   - `brain_model.h5` or `brain_model.keras`
-   (Add `skin_model.h5` later if you train it.)
+2) Copy your trained models into `../models/`:
+   - `brain_tumor_xception_model.h5`
+   - `Chest_XRay_model.h5`
+   - `fracture_classification_model.h5`
+   - `gatekeeper_model.h5`
+   - `resnet50_binary_softmax.h5
 
 3) Run the app locally:
    ```bash
    python app.py
    ```
    Open http://127.0.0.1:8000 in your browser.
-
-4) Choose a model (X-ray / Brain), upload an image, and see the formatted report.
 
 ## Notes
 - Uses Keras 3 API (compatible with `.keras` and `.h5`).
