@@ -29,9 +29,6 @@ MediScan/
 
 ## Some Images
 
-<img width="1820" height="927" alt="Screenshot 2025-09-18 202056" src="https://github.com/user-attachments/assets/a01d1227-a153-4f10-9ac4-6e463e1a790c" />
-
-
 ## Run Locally
 
 1) Create a virtual environment and install dependencies:
