@@ -36,11 +36,24 @@ MediScan/
 
 
 ## Run Locally
-- Create a virtual environment and install dependencies:
+- Clone the project
+
+- Create a virtual environment
    ```bash
    python -m venv .venv
    # Windows: .venv\Scripts\activate
    # macOS/Linux: source .venv/bin/activate
+   ```
+   
+- Go to saved_models directory using
+   ```bash
+   cd models
+   ```
+   - Download the PreTrained models and model weights from https://drive.google.com/drive/folders/1_7OAB1r3PCBxUS0UpyxkqrKQbVgln0IH?usp=drive_link
+   - Paste the downloaded weights in the corresponding directories.
+   
+- Install Dependencies:
+   ```bash
    pip install --upgrade pip
    pip install -r requirements.txt
    ```
