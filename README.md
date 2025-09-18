@@ -81,5 +81,5 @@ MediScan/
 
 ## 📘 Resources
 
-- 🧠 Kaggle Notebook: [View & Fork the Full Notebook](https://www.kaggle.com/yourusername/notebook-name)
+- [Brain_Tumor](https://www.kaggle.com/code/nitinrajpoot/brain-tumor)
 
