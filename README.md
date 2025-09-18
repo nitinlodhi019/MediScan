@@ -37,7 +37,10 @@ MediScan/
 
 ## Run Locally
 - Clone the project
-
+   ```bash
+  git clone https://github.com/nitinlodhi019/MediScan.git
+   ```
+   
 - Create a virtual environment
    ```bash
    python -m venv .venv
