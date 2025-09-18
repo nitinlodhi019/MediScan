@@ -81,4 +81,6 @@ MediScan/
 
 - [Brain_Tumor](https://www.kaggle.com/code/nitinrajpoot/brain-tumor)
 - [Chest_Xray](https://www.kaggle.com/code/nitinrajpoot/chest-x-ray)
-
+- [Gatekeeper_model](https://github.com/nitinlodhi019/MediScan/blob/main/Gatekeeper_model/Gatekeeper_Model.ipynb)
+- [Skin_Cancer](https://www.kaggle.com/code/pankajbora107/cnn-for-skin-cancer-detection)
+- [Bone_Fracture](https://www.kaggle.com/code/pankajbora107/bone-fracture-detection)
