@@ -44,6 +44,12 @@ MediScan/
    # Windows: .venv\Scripts\activate
    # macOS/Linux: source .venv/bin/activate
    ```
+
+- Install Dependencies:
+   ```bash
+   pip install --upgrade pip
+   pip install -r requirements.txt
+   ```
    
 - Go to saved_models directory using
    ```bash
@@ -51,21 +57,13 @@ MediScan/
    ```
    - Download the PreTrained models and model weights from https://drive.google.com/drive/folders/1_7OAB1r3PCBxUS0UpyxkqrKQbVgln0IH?usp=drive_link
    - Paste the downloaded weights in the corresponding directories.
-   
-- Install Dependencies:
+
+- Go back to the parent directory using
    ```bash
-   pip install --upgrade pip
-   pip install -r requirements.txt
+   cd ../
    ```
 
-2) Copy your trained models into `../models/`:
-   - `brain_tumor_xception_model.h5`
-   - `Chest_XRay_model.h5`
-   - `fracture_classification_model.h5`
-   - `gatekeeper_model.h5`
-   - `resnet50_binary_softmax.h5`
-   
-3) Run the app locally:
+- Run the app locally:
    ```bash
    python app.py
    ```
